@@ -2,3 +2,4 @@ hello,other file.
 other file edit by server.
 
 server edit for rebase.
+local edit otherfile for rebase.
