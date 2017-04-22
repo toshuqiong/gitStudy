@@ -2,3 +2,4 @@ hello,file.txt
 server edit
 
 local edit for rebase.
+server edit for rebase.
