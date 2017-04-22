@@ -1,2 +1,4 @@
 hello,other file.
 other file edit by server.
+
+local edit otherfile.txt for rebase.
